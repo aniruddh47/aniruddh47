@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**aniruddh47/aniruddh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#           Hi, I'm Aniruddh Kumbhar! 
+ 
+    **Student | Tech Enthusiast | Lifelong Learner**   
+             Passionate about coding, problem-solving, and exploring new technologies.   
+        Currently learning **[Your Favorite Tech/Subject]** and building cool projects! --- 
+##   Skills & Technologies   - **Languages:** Python, C++   -  - **Databases:** MySQL, Firebase   - **Version Control:** Git & GitHub   --- 
+##    Currently Learning   
+  Data Structures & Algorithms   
+  Machine Learning & AI   
+##        Connect with Me   
+   [GitHub](https://github.com/aniruddh47)   
+   [LinkedIn](https://linkedin.com/in/aniruddh kumbhar)   
+       Email: aniruddh4722@gmail.com   
+        **Let's build something amazing together! **  
