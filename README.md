@@ -1,7 +1,7 @@
 #       Aniruddh Kumbhar! 
 
- https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JkcnNoaGVra2Y0NHExMjM4MmZmbXE1eGFpY240M2FodmFtb2phcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif
-   
+   ![giphy](https://github.com/user-attachments/assets/7ef04f9a-b77c-4374-bfc5-cc371db47d20)
+
     
   **Student | Tech Enthusiast | Lifelong Learner | Passionate about coding **
   ## Currently learning **Machine Learning** and building cool projects! --- ##
