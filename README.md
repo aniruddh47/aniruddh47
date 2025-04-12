@@ -1,5 +1,9 @@
 #       Aniruddh Kumbhar! 
-https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif?cid=ecf05e47vwgxl5ovb6ovi1ng532duhe1gqiakpkadu17zlnt&ep=v1_gifs_search&rid=giphy.gif&ct=g
+   ![tkthao219-bubududu(2)](https://github.com/user-attachments/assets/9017faec-5b4d-4fd4-96d5-9fcca32adc85)
+
+  
+
+
   **Student | Tech Enthusiast **
   ## Currently learning **Machine Learning** and building cool projects! --- ##
   ## AI's got algorithm ,I've got Dank Memes  
