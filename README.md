@@ -1,9 +1,6 @@
 #       Aniruddh Kumbhar! 
-
-   ![giphy](https://github.com/user-attachments/assets/7ef04f9a-b77c-4374-bfc5-cc371db47d20)
-
-    
-  **Student | Tech Enthusiast | Lifelong Learner | Passionate about coding **
+https://media.giphy.com/media/50fuVHMGUVszu/giphy.gif?cid=ecf05e47vwgxl5ovb6ovi1ng532duhe1gqiakpkadu17zlnt&ep=v1_gifs_search&rid=giphy.gif&ct=g
+  **Student | Tech Enthusiast **
   ## Currently learning **Machine Learning** and building cool projects! --- ##
   ## AI's got algorithm ,I've got Dank Memes  
 ##        Connect with Me   
