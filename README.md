@@ -1,5 +1,5 @@
 #       Aniruddh Kumbhar! 
-**Student | Tech Enthusiast **
+
   ## Currently learning **Machine Learning** and building cool projects! --- ##
   ## AI's got algorithm ,I've got Dank Memes  
 ##        Connect with Me   
